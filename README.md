@@ -1,6 +1,6 @@
 # Performance Huddle
 
-A daily brief for a professional baseball performance department, built to run as a Microsoft Teams tab.
+A daily brief for a professional baseball performance department, built to run as a Microsoft Teams tab. Built by [Mauro Castillo, MD, MS, CSCS, RSCC, CPSS](https://maurocastillomd.com).
 
 Strength and conditioning, sports science, medical, nutrition, and coaching each submit what the rest of
 the group needs to know. The application turns those updates into one reviewed brief per audience: what
