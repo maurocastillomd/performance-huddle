@@ -1,0 +1,50 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.30/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.30",
+  "version": "1.0.0",
+  "id": "00000000-0000-0000-0000-000000000000",
+  "packageName": "com.example.performancehuddle",
+  "developer": {
+    "name": "REPLACE WITH YOUR ORGANIZATION",
+    "websiteUrl": "https://huddle.example.com",
+    "privacyUrl": "https://huddle.example.com/privacy",
+    "termsOfUseUrl": "https://huddle.example.com/terms"
+  },
+  "name": {
+    "short": "Performance Huddle",
+    "full": "Performance Huddle — daily performance brief"
+  },
+  "description": {
+    "short": "Turn departmental updates into a reviewed daily brief and assigned follow-ups.",
+    "full": "Performance Huddle collects updates that staff explicitly submit, organizes them into a daily brief for one audience, and records the decisions and follow-ups that come out of it. It reads no message history, no private chats, and no medical records. Data is processed and stored wherever your organization deploys the server, which is not necessarily inside Microsoft."
+  },
+  "icons": {
+    "color": "color.png",
+    "outline": "outline.png"
+  },
+  "accentColor": "#1D4E77",
+  "staticTabs": [
+    {
+      "entityId": "huddle",
+      "name": "Daily Huddle",
+      "contentUrl": "https://huddle.example.com/",
+      "websiteUrl": "https://huddle.example.com/",
+      "scopes": ["personal"]
+    }
+  ],
+  "configurableTabs": [
+    {
+      "configurationUrl": "https://huddle.example.com/",
+      "canUpdateConfiguration": false,
+      "scopes": ["team"],
+      "context": ["channelTab"]
+    }
+  ],
+  "permissions": ["identity"],
+  "validDomains": ["huddle.example.com"],
+  "webApplicationInfo": {
+    "id": "00000000-0000-0000-0000-000000000000",
+    "resource": "api://huddle.example.com/00000000-0000-0000-0000-000000000000"
+  },
+  "showLoadingIndicator": false
+}

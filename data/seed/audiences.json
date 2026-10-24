@@ -1,0 +1,30 @@
+[
+  {
+    "id": "aud-ops",
+    "orgId": "org-riverbend",
+    "name": "Baseball Ops",
+    "sensitive": false,
+    "description": "All baseball operations staff. Logistics, schedule, and roster movement."
+  },
+  {
+    "id": "aud-performance",
+    "orgId": "org-riverbend",
+    "name": "Performance Group",
+    "sensitive": false,
+    "description": "Strength & conditioning, sports science, nutrition, medical, and the coaches attached to the performance group."
+  },
+  {
+    "id": "aud-medical",
+    "orgId": "org-riverbend",
+    "name": "Medical — Participation Guidance",
+    "sensitive": true,
+    "description": "Approved participation guidance only. Restricted membership. Not a clinical record."
+  },
+  {
+    "id": "aud-harbor-ops",
+    "orgId": "org-harbor",
+    "name": "Harbor City Baseball Ops",
+    "sensitive": false,
+    "description": "Separate organization. Used to demonstrate organization isolation."
+  }
+]

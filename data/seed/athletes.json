@@ -1,0 +1,15 @@
+[
+  { "id": "a-01", "orgId": "org-riverbend", "name": "Elias Moreno",     "position": "RHP", "jersey": 17 },
+  { "id": "a-02", "orgId": "org-riverbend", "name": "Tobias Wren",      "position": "C",   "jersey": 8 },
+  { "id": "a-03", "orgId": "org-riverbend", "name": "Rafael Ocampo",    "position": "SS",  "jersey": 2 },
+  { "id": "a-04", "orgId": "org-riverbend", "name": "Nico Bassett",     "position": "OF",  "jersey": 24 },
+  { "id": "a-05", "orgId": "org-riverbend", "name": "Dmitri Vasquez",   "position": "LHP", "jersey": 41 },
+  { "id": "a-06", "orgId": "org-riverbend", "name": "Kai Lindberg",     "position": "2B",  "jersey": 5 },
+  { "id": "a-07", "orgId": "org-riverbend", "name": "Marcus Feld",      "position": "1B",  "jersey": 33 },
+  { "id": "a-08", "orgId": "org-riverbend", "name": "Owen Takahashi",   "position": "RHP", "jersey": 29 },
+  { "id": "a-09", "orgId": "org-riverbend", "name": "Julian Reyes",     "position": "3B",  "jersey": 11 },
+  { "id": "a-10", "orgId": "org-riverbend", "name": "Beau Carrington",  "position": "OF",  "jersey": 6 },
+  { "id": "a-11", "orgId": "org-riverbend", "name": "Sami Adeyemi",     "position": "RHP", "jersey": 48 },
+  { "id": "a-12", "orgId": "org-riverbend", "name": "Cole Petrakis",    "position": "C",   "jersey": 15 },
+  { "id": "b-01", "orgId": "org-harbor",    "name": "Wes Halloran",     "position": "OF",  "jersey": 9 }
+]

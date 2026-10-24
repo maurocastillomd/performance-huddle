@@ -1,0 +1,42 @@
+[
+  {
+    "id": "D001", "orgId": "org-riverbend", "audienceId": "aud-performance", "athleteId": "a-05",
+    "action": "Hold Vasquez' bullpen volume at 25 pitches through Sunday",
+    "ownerId": "u-lindqvist",
+    "rationale": "Throwing load was trending up and the group agreed to hold volume while it was watched.",
+    "dueDayOffset": 2, "reviewDayOffset": 5,
+    "status": "superseded", "createdBy": "u-vega", "createdDayOffset": -2, "completedDayOffset": null,
+    "supersedesDecisionId": null, "supersededByDecisionId": "D003",
+    "sourceUpdateIds": ["U009"], "briefId": null
+  },
+  {
+    "id": "D002", "orgId": "org-riverbend", "audienceId": "aud-ops", "athleteId": "a-08",
+    "action": "Notify Takahashi of the travel roster and arrange weekend housing",
+    "ownerId": null,
+    "rationale": "Agreed in the Wednesday huddle. Nobody was named on the way out of the room.",
+    "dueDayOffset": 1, "reviewDayOffset": 3,
+    "status": "open", "createdBy": "u-vega", "createdDayOffset": -2, "completedDayOffset": null,
+    "supersedesDecisionId": null, "supersededByDecisionId": null,
+    "sourceUpdateIds": ["U010"], "briefId": null
+  },
+  {
+    "id": "D003", "orgId": "org-riverbend", "audienceId": "aud-performance", "athleteId": "a-05",
+    "action": "Vasquez' bullpen cap moves to 35 pitches",
+    "ownerId": "u-lindqvist",
+    "rationale": "Reviewed this morning. The earlier 25-pitch cap is replaced, not layered on top of.",
+    "dueDayOffset": 1, "reviewDayOffset": 7,
+    "status": "open", "createdBy": "u-vega", "createdDayOffset": 0, "completedDayOffset": null,
+    "supersedesDecisionId": "D001", "supersededByDecisionId": null,
+    "sourceUpdateIds": ["U015"], "briefId": null
+  },
+  {
+    "id": "D004", "orgId": "org-riverbend", "audienceId": "aud-performance", "athleteId": "a-03",
+    "action": "Refit Ocampo's sleep strap and re-brief him on nightly use",
+    "ownerId": "u-lindqvist",
+    "rationale": "Compliance had dropped to two of seven nights, so the data was not usable.",
+    "dueDayOffset": -2, "reviewDayOffset": 5,
+    "status": "completed", "createdBy": "u-vega", "createdDayOffset": -5, "completedDayOffset": -1,
+    "supersedesDecisionId": null, "supersededByDecisionId": null,
+    "sourceUpdateIds": ["U003"], "briefId": null
+  }
+]

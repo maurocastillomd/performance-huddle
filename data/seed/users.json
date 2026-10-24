@@ -1,0 +1,137 @@
+[
+  {
+    "id": "u-vega",
+    "orgId": "org-riverbend",
+    "name": "Dana Vega",
+    "title": "Performance Coordinator",
+    "department": "sports_science",
+    "permissions": [
+      "submit",
+      "approve"
+    ],
+    "audienceIds": [
+      "aud-performance",
+      "aud-ops",
+      "aud-medical"
+    ],
+    "disabled": false
+  },
+  {
+    "id": "u-okafor",
+    "orgId": "org-riverbend",
+    "name": "Marcus Okafor",
+    "title": "Strength & Conditioning Coach",
+    "department": "strength_conditioning",
+    "permissions": [
+      "submit"
+    ],
+    "audienceIds": [
+      "aud-performance",
+      "aud-ops"
+    ],
+    "disabled": false
+  },
+  {
+    "id": "u-lindqvist",
+    "orgId": "org-riverbend",
+    "name": "Priya Lindqvist",
+    "title": "Sports Scientist",
+    "department": "sports_science",
+    "permissions": [
+      "submit"
+    ],
+    "audienceIds": [
+      "aud-performance",
+      "aud-ops"
+    ],
+    "disabled": false
+  },
+  {
+    "id": "u-serrano",
+    "orgId": "org-riverbend",
+    "name": "Alex Serrano",
+    "title": "Athletic Trainer",
+    "department": "medical",
+    "permissions": [
+      "submit"
+    ],
+    "audienceIds": [
+      "aud-performance",
+      "aud-ops",
+      "aud-medical"
+    ],
+    "disabled": false
+  },
+  {
+    "id": "u-nakamura",
+    "orgId": "org-riverbend",
+    "name": "Rae Nakamura",
+    "title": "Performance Dietitian",
+    "department": "nutrition",
+    "permissions": [
+      "submit"
+    ],
+    "audienceIds": [
+      "aud-performance",
+      "aud-ops"
+    ],
+    "disabled": false
+  },
+  {
+    "id": "u-boone",
+    "orgId": "org-riverbend",
+    "name": "Tom Boone",
+    "title": "Hitting Coach",
+    "department": "coaching",
+    "permissions": [
+      "submit"
+    ],
+    "audienceIds": [
+      "aud-performance",
+      "aud-ops"
+    ],
+    "disabled": false
+  },
+  {
+    "id": "u-ellis",
+    "orgId": "org-riverbend",
+    "name": "Jordan Ellis",
+    "title": "Player Development Intern",
+    "department": "coaching",
+    "permissions": [],
+    "audienceIds": [
+      "aud-ops"
+    ],
+    "disabled": false
+  },
+  {
+    "id": "u-cortez",
+    "orgId": "org-riverbend",
+    "name": "Sam Cortez",
+    "title": "Sports Science Assistant",
+    "department": "sports_science",
+    "permissions": [
+      "submit"
+    ],
+    "audienceIds": [
+      "aud-performance",
+      "aud-ops"
+    ],
+    "disabled": false
+  },
+  {
+    "id": "u-hale",
+    "orgId": "org-harbor",
+    "name": "Casey Hale",
+    "title": "Director of Performance",
+    "department": "strength_conditioning",
+    "permissions": [
+      "submit",
+      "approve"
+    ],
+    "audienceIds": [
+      "aud-harbor-ops"
+    ],
+    "disabled": false
+  }
+]
